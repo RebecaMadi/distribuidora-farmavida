@@ -1,0 +1,60 @@
+02032826208
+10001
+Brasil
+Amazonas
+armando Mendes
+Manaus
+R
+34
+12122121
+
+12121212112
+10002
+brasil
+amazonas
+manaus
+compensa
+rua aleatoria
+35
+2131244
+
+02032826208
+10003
+brasil
+amazonas
+manaus
+armando mendes
+r
+34
+69089250
+
+02032826208
+10004
+Brasil
+Amazonas
+Manaus
+Armando Mendes
+Rua R
+34
+69089250
+
+02032826208
+10005
+Brasil
+Amazonas
+Manaus
+Armando Mendes
+Rua R
+34
+69089250
+
+12345678912
+10006
+brasil
+amazonas
+manaus
+parque 10
+rua j
+24
+12345123
+
